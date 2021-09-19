@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AndyCuba
 - 👀 I’m interested in JavaScript, Frontend, Web
 - 🌱 I’m currently learning JavaScript and C#
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Telegramm - @AndyDaytona
 
 <!---
