@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AndyCuba
-- 👀 I’m interested in JavaScript, Frontend, Web
+- 👀 I’m interested in JavaScript, Frontend, Web, Unity
 - 🌱 I’m currently learning JavaScript and C#
 - 📫 How to reach me: Telegramm - @AndyDaytona
 
